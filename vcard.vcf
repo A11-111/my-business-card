@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:王小明
+N:王;小明;;;
+item1.EMAIL;TYPE=INTERNET:ming@example.com
+item1.X-ABLabel:
+item2.TEL:0912-345-678
+item2.X-ABLabel:
+ORG:小明科技有限公司
+TITLE:資深工程師
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzF6rX6hUey23IlCHti4ig
+ EpD5CJ9K2snMmp5FDdx1hoklpG_rO_
+CATEGORIES:myContacts
+END:VCARD
